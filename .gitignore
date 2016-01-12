@@ -1,0 +1,11 @@
+target/*
+.idea/*
+project/target/*
+project/project/target/*
+market/target/*
+akka-http-swagger/project/target/*
+market/project/target/*
+akka-http-swagger/target/*
+akka-http-swagger/project/project/*
+akka-http-swagger/project/project/*
+.DS_Store
